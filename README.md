@@ -1,10 +1,10 @@
 # PyBer With Matplotlib
 
-## Overview of the analysis:
+## Overview of the analysis
 
 The purpose of the analysis is to provide V. Isualize with information about how the total weekly fares differ by city type and show how those differences can drive decision making by PyBer management. 
 
-## Result:
+## Result
 
 ![](Average_Per_city_Type.png) 
 
@@ -30,7 +30,7 @@ As we are moving from Rural to Urban cities, the average fare per driver drops s
 Within the same city type, the total fare is not consistent week over week, with differences going from 50$ to 500$ for Rural cities, from 600$ to 1,400$ for Suburban cities, and from 1,600$ to up to 2,500$ in Urban cities. As we are moving from Rural to Urban cities those disparities in total fares per week go wider.
 
 
-## Summary: 
+## Summary
 
 - Urban cities seem to be saturated by drivers. It would be more profitable to review the number of drivers on Urban cities, and maybe to reallocate drivers from Urban to Rural and Suburban cities, to increase profitability as the average fare /driver in Rural and Suburban cities are much above average. 
 
